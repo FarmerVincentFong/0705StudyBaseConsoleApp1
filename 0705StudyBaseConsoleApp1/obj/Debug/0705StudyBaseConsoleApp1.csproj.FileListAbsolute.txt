@@ -1,0 +1,6 @@
+F:\学习课程\CSharp\visual studio 2015\Projects\0705StudyBaseConsoleApp1\0705StudyBaseConsoleApp1\bin\Debug\0705StudyBaseConsoleApp1.exe.config
+F:\学习课程\CSharp\visual studio 2015\Projects\0705StudyBaseConsoleApp1\0705StudyBaseConsoleApp1\bin\Debug\0705StudyBaseConsoleApp1.exe
+F:\学习课程\CSharp\visual studio 2015\Projects\0705StudyBaseConsoleApp1\0705StudyBaseConsoleApp1\bin\Debug\0705StudyBaseConsoleApp1.pdb
+F:\学习课程\CSharp\visual studio 2015\Projects\0705StudyBaseConsoleApp1\0705StudyBaseConsoleApp1\obj\Debug\0705StudyBaseConsoleApp1.csprojResolveAssemblyReference.cache
+F:\学习课程\CSharp\visual studio 2015\Projects\0705StudyBaseConsoleApp1\0705StudyBaseConsoleApp1\obj\Debug\0705StudyBaseConsoleApp1.exe
+F:\学习课程\CSharp\visual studio 2015\Projects\0705StudyBaseConsoleApp1\0705StudyBaseConsoleApp1\obj\Debug\0705StudyBaseConsoleApp1.pdb
