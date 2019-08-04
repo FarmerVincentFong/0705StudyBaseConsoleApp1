@@ -36,8 +36,37 @@
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="IronPython, Version=2.7.9.0, Culture=neutral, PublicKeyToken=7f709c5b713576e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\IronPython.2.7.9\lib\net45\IronPython.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="IronPython.Modules, Version=2.7.9.0, Culture=neutral, PublicKeyToken=7f709c5b713576e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\IronPython.2.7.9\lib\net45\IronPython.Modules.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="IronPython.SQLite, Version=2.7.9.0, Culture=neutral, PublicKeyToken=7f709c5b713576e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\IronPython.2.7.9\lib\net45\IronPython.SQLite.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="IronPython.Wpf, Version=2.7.9.0, Culture=neutral, PublicKeyToken=7f709c5b713576e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\IronPython.2.7.9\lib\net45\IronPython.Wpf.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Dynamic, Version=1.2.2.0, Culture=neutral, PublicKeyToken=7f709c5b713576e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\DynamicLanguageRuntime.1.2.2\lib\net45\Microsoft.Dynamic.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Scripting, Version=1.2.2.0, Culture=neutral, PublicKeyToken=7f709c5b713576e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\DynamicLanguageRuntime.1.2.2\lib\net45\Microsoft.Scripting.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Scripting.Metadata, Version=1.2.2.0, Culture=neutral, PublicKeyToken=7f709c5b713576e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\DynamicLanguageRuntime.1.2.2\lib\net45\Microsoft.Scripting.Metadata.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -47,21 +76,28 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ArrayAndArrayList.cs" />
+    <Compile Include="AssemblyAndReflectionTest.cs" />
     <Compile Include="DelegateFunctionTest.cs" />
     <Compile Include="DelegateTest.cs" />
     <Compile Include="DelegateChainTest.cs" />
+    <Compile Include="DynamicTest.cs" />
     <Compile Include="EventTest.cs" />
+    <Compile Include="ExtensionMethodTest.cs" />
     <Compile Include="GenericTest.cs" />
+    <Compile Include="GenericTest1.cs" />
     <Compile Include="GenericTest2.cs" />
     <Compile Include="IEnumeratorAndIteratorTest.cs" />
+    <Compile Include="LambdaTest.cs" />
     <Compile Include="MultipleGrammarsTest.cs" />
     <Compile Include="NullableTest.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RefAndOutParams.cs" />
+    <Compile Include="SimpleLinqTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

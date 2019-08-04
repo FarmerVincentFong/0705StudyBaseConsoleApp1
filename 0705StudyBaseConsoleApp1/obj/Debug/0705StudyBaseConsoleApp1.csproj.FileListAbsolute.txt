@@ -4,3 +4,17 @@ F:\学习课程\CSharp\visual studio 2015\Projects\0705StudyBaseConsoleApp1\0705
 F:\学习课程\CSharp\visual studio 2015\Projects\0705StudyBaseConsoleApp1\0705StudyBaseConsoleApp1\obj\Debug\0705StudyBaseConsoleApp1.csprojResolveAssemblyReference.cache
 F:\学习课程\CSharp\visual studio 2015\Projects\0705StudyBaseConsoleApp1\0705StudyBaseConsoleApp1\obj\Debug\0705StudyBaseConsoleApp1.exe
 F:\学习课程\CSharp\visual studio 2015\Projects\0705StudyBaseConsoleApp1\0705StudyBaseConsoleApp1\obj\Debug\0705StudyBaseConsoleApp1.pdb
+F:\学习课程\CSharp\visual studio 2015\Projects\0705StudyBaseConsoleApp1\0705StudyBaseConsoleApp1\bin\Debug\IronPython.dll
+F:\学习课程\CSharp\visual studio 2015\Projects\0705StudyBaseConsoleApp1\0705StudyBaseConsoleApp1\bin\Debug\IronPython.Modules.dll
+F:\学习课程\CSharp\visual studio 2015\Projects\0705StudyBaseConsoleApp1\0705StudyBaseConsoleApp1\bin\Debug\IronPython.SQLite.dll
+F:\学习课程\CSharp\visual studio 2015\Projects\0705StudyBaseConsoleApp1\0705StudyBaseConsoleApp1\bin\Debug\IronPython.Wpf.dll
+F:\学习课程\CSharp\visual studio 2015\Projects\0705StudyBaseConsoleApp1\0705StudyBaseConsoleApp1\bin\Debug\Microsoft.Dynamic.dll
+F:\学习课程\CSharp\visual studio 2015\Projects\0705StudyBaseConsoleApp1\0705StudyBaseConsoleApp1\bin\Debug\Microsoft.Scripting.dll
+F:\学习课程\CSharp\visual studio 2015\Projects\0705StudyBaseConsoleApp1\0705StudyBaseConsoleApp1\bin\Debug\Microsoft.Scripting.Metadata.dll
+F:\学习课程\CSharp\visual studio 2015\Projects\0705StudyBaseConsoleApp1\0705StudyBaseConsoleApp1\bin\Debug\IronPython.xml
+F:\学习课程\CSharp\visual studio 2015\Projects\0705StudyBaseConsoleApp1\0705StudyBaseConsoleApp1\bin\Debug\IronPython.Modules.xml
+F:\学习课程\CSharp\visual studio 2015\Projects\0705StudyBaseConsoleApp1\0705StudyBaseConsoleApp1\bin\Debug\IronPython.SQLite.xml
+F:\学习课程\CSharp\visual studio 2015\Projects\0705StudyBaseConsoleApp1\0705StudyBaseConsoleApp1\bin\Debug\IronPython.Wpf.xml
+F:\学习课程\CSharp\visual studio 2015\Projects\0705StudyBaseConsoleApp1\0705StudyBaseConsoleApp1\bin\Debug\Microsoft.Dynamic.xml
+F:\学习课程\CSharp\visual studio 2015\Projects\0705StudyBaseConsoleApp1\0705StudyBaseConsoleApp1\bin\Debug\Microsoft.Scripting.xml
+F:\学习课程\CSharp\visual studio 2015\Projects\0705StudyBaseConsoleApp1\0705StudyBaseConsoleApp1\bin\Debug\Microsoft.Scripting.Metadata.xml

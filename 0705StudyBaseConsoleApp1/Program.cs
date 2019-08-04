@@ -22,7 +22,10 @@ namespace _0705StudyBaseConsoleApp1
             //DelegateFunctionTest.TestRun(); //测试匿名方法
             //IEnumeratorAndIteratorTest.TestRun();   //测试迭代器的使用
             //MultipleGrammarsTest.TestRun();   //测试自动实现的属性，隐式类型，对象集合初始化器，匿名类型
-            LambdaTest.TestRun();  // 测试Lambda表达式
+            //LambdaTest.TestRun();  // 测试Lambda表达式
+            //ExtensionMethodTest.TestRun();  //测试扩展方法
+            //SimpleLinqTest.TestRun();   //测试linq简单基础用法
+            DynamicTest.TestRun();      //测试dynamic动态类型
         }
     }
 }
