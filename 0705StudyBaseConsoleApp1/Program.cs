@@ -25,6 +25,7 @@ namespace _0705StudyBaseConsoleApp1
             //LambdaTest.TestRun();  // 测试Lambda表达式
             //ExtensionMethodTest.TestRun();  //测试扩展方法
             //SimpleLinqTest.TestRun();   //测试linq简单基础用法
+            //TupleAndValueTupleTest.TestRun();//测试元组
             DynamicTest.TestRun();      //测试dynamic动态类型
         }
     }
