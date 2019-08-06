@@ -1,0 +1,9 @@
+#personal vs config
+.vs
+
+#nuget packages
+packages
+
+#output files
+0705StudyBaseConsoleApp1/bin
+0705StudyBaseConsoleApp1/obj
